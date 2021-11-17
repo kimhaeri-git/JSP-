@@ -1,0 +1,24 @@
+@charset "EUC-KR";
+.canvasIn{
+	width:400px;
+	height:400px;
+	opacity: 0.7;
+}
+.canvasOut{
+	width:400px;
+	height:400px;
+	opacity:0.7;
+	
+}
+
+#menubar{
+	position :relative;
+	/* top:0; */
+	left : 50%;
+	margin-left: -50%;
+
+}
+#ImageBtn{
+	width: 100px;
+	background-color: threeddarkshadow;
+}
